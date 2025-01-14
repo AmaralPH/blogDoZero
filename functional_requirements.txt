@@ -1,0 +1,6 @@
+Functional requirements:
+
+- CRUD of posts
+- posts with image
+- comments system
+- navigation menu
