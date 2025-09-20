@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: study-tracker
+  profiles:
+    default: dev
+
+app:
+  security:
+    jwt-secret: c3R1ZHktdHJhY2tlci1zdXBlci1zZWNyZXQtc3VwZXItbG9uZy1zZWNyZXQtc3RyaW5n
+    jwt-expiration-seconds: 86400
